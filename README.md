@@ -36,7 +36,7 @@ Produzido com a colaboração de integrantes da **He4rt Developers**, esse tutor
 12. [Protótipos](./12-Protótipos/Protótipos.md)
 13. [Icones](./13-Ícones/Icones.md)
 14. [Grids e Alinhamento](./14-Grids-e-Alinhamento/Grids-e-Alinhamento.md)
-15. [MicroInterações](./15-MicroInterações/Microinterações.md)
+15. [MicroInterações](./15-Microinterações/Microinterações.md)
 16. [Programação](./16-Programação/Programação.md)
 17. [Acessibilidade e Usabilidade](17-Acessibilidade-e-Usabilidade/Acessibilidade-e-Usabilidade.md)
 
