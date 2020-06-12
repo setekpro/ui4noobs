@@ -1,4 +1,4 @@
-# ELEMENTOS UI 
+# Elementos UI
 
 Os elementos de uma UI, consiste basicamente em: **Espaço, Formas, Cores, Tipografia, Imagens e os Ícones.**
 
