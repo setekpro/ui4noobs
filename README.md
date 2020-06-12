@@ -23,7 +23,7 @@ Produzido com a colaboração de integrantes da **He4rt Developers**, esse tutor
 ## Roadmap
 
 1. [Introdução ao UI](./01-Introdução-ao-UI/Introdução-ao-UI.md)
-2. [Importância do UI](./02-A-importância-do-UI/A-importância-do-UI.MD)
+2. [Importância do UI](./02-A-importância-do-UI/A-importância-do-UI.md)
 3. [Elementos UI](./03-Elementos-UI/Elementos-UI.md)
 4. [Interface Mobile](./04-Interface-Mobile/Interface-Mobile.md)
 5. [Interface Web](./05-Interface-Web/Interface-Web.md)
