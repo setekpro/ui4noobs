@@ -41,4 +41,6 @@ Vamos ver alguns exemplos:
 ![Cor Errada](https://imgur.com/TiAZa6T.png)
 
 ---
-Apesar da cor preta (#000000) ser a recomendada, utilize tons de cinza escuro pro seu corpo de texto, não fica tão agressivo e mantém um layout bem bonito
+Apesar da cor preta (#000000) ser a recomendada, utilize tons de cinza escuro pro seu corpo de texto, não fica tão agressivo e mantém um layout bem bonito.
+
+[Próximo capítulo: Protótipos](../12-Protótipos/Prototipos.md)

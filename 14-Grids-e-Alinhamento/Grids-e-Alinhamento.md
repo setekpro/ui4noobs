@@ -9,3 +9,5 @@ Quando as determinadas informações estão alinhadas e de acordo com o grid é 
 Separei alguns exemplos de grids para você compreender todo assunto comentado a cima.
 
 ![Grids](https://miro.medium.com/max/1824/1*f5JcAUOd7UZ_9fmRPDKNTA.png)
+
+[Próximo capítulo: Microinterações](../15-Microinterações/Microinterações.md)

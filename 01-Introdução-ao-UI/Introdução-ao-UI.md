@@ -7,3 +7,5 @@ UI (User Interface) é um termo utilizado para o desenvolvimento de interfaces d
 A necessidade desse profissional começa na união entre a UX (User Experiente) e o usuário, é correto afirmar que a UI é a ponte que leva a experiência do usuário até ele, desenvolver ações que geram resultados é um dos objetivos de um designer de interface como capitação de leads ou chamar atenção para determinada ação ou chamada.
 
 Mesmo com o termo ter sido popularizado em 1990 pela Apple ainda é um espaço pouco explorado no Brasil podendo ser um grande área para investir no momento.
+
+[Próximo capítulo: A importância do UI](../02-A-importância-do-UI/A-importância-do-UI.md)

@@ -25,3 +25,5 @@ A sua cor predominante é o roxo já a sua secundário é o branco em algumas va
 A sua cor predominante é o verde já a sua secundário é o preto em algumas variações da logo.
 
 As cores frias possuem capacidade de ter contrastes diferentes ao mesmo tempo, utilizei como exemplo o verde da Monster e o roxo da Yahoo, ambas possuem cares opostas mas que transmitem o mesmo sentimento de calma, tranquilidade e inteligência.
+
+[Próximo capítulo: Cores neutras](../10-Cores-neutras/Cores-neutras.md)
