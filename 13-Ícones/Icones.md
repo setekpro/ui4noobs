@@ -17,4 +17,4 @@ Recomendações de sites de ícones:
 
 - [Material Icon](https://material.io/resources/icons/?style=baseline)
 
-[Próximo capítulo: Grids-e-Alinhamento](../14-Grids-e-Alinhamento/Grids-e-Alinhamento.md)
+[Próximo capítulo: Grids e Alinhamento](../14-Grids-e-Alinhamento/Grids-e-Alinhamento.md)
