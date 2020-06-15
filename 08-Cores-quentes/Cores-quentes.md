@@ -23,3 +23,5 @@ A sua cor predominante é o vermelho já a sua secundário é o branco em alguma
 A sua cor predominante é o vermelho já a sua secundário é o branco em algumas variações da logo.
 
 Como se pode perceber a utilização da cor neutra é bastante comum em alguns segmentos. O branco tem um grande constraste com qualquer cor mas principalmente como vermelho pelo realce e o destacamento da cor em si.
+
+[Próximo capítulo: Cores frias](../09-Cores-frias/Cores-frias.md)

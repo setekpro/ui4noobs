@@ -69,4 +69,6 @@ A branca é a cor mais pura. Assim sendo, ela remete à claridade, pureza, paz e
 ### 11 - Significado da cor cinza: significado
 O cinza é o resultado da junção do preto com o branco. E assim como suas primárias, ela ajuda a ressaltar as neutras. De maneira isolada, pode-se dizer que é uma cor agradável e que passa a sensação de modernidade e profissionalismo.
 
-* Sensações promovidas pela cor cinza:Inovação, tecnologia, seriedade, neutralidade e reflexão
+* Sensações promovidas pela cor cinza:Inovação, tecnologia, seriedade, neutralidade e reflexão.
+
+[Próximo capítulo: Cores Quentes](../08-Cores-quentes/Cores-quentes.md)
