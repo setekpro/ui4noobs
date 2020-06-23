@@ -33,7 +33,7 @@ Produzido com a colaboração de integrantes da **He4rt Developers**, esse tutor
 9. [Cores Frias](./09-Cores-frias/Cores-frias.md)
 10. [Cores Neutras](./10-Cores-neutras/Cores-neutras.md)
 11. [Tipografia](./11-Tipografia/Tipografia.md)
-12. [Protótipos](./12-Protótipos/Protótipos.md)
+12. [Protótipos](./12-Protótipos/Prototipos.md)
 13. [Icones](./13-Ícones/Icones.md)
 14. [Grids e Alinhamento](./14-Grids-e-Alinhamento/Grids-e-Alinhamento.md)
 15. [MicroInterações](./15-Microinterações/Microinterações.md)
