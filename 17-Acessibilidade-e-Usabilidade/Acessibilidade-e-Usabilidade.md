@@ -10,7 +10,7 @@ Algumas funções como; tato falado para cegos ou até mesmo descrições de cad
 
 Usabilidade
 
-Usabilidade é o termo utilizado para descrever as determinadas ações que usuário “utiliza” em sua interface dento como principal objetivo conter informações claras e de fácil entendimento e fácil visualização.
+Usabilidade é o termo utilizado para descrever as determinadas ações que usuário “utiliza” em sua interface tendo como principal objetivo conter informações claras e de fácil entendimento e fácil visualização.
 
 Quando usuário clicar nesse botão deve fazer alguma ação clara por isso dizemos usabilidade.
 
