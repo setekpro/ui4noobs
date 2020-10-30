@@ -1,4 +1,4 @@
-# Componentes 
+# Componentes
 
 Em uma interface existem diferentes tipos de componentes para diversas ações e nesse módulo vou mostrar alguns mais utilizados.
 
@@ -16,17 +16,17 @@ São botões que possibilitam alternativas múltiplas.
 
 # Rádios
 
-A diferença desse componente para o Checkboxes é a sua funcionalidade. Só pode ser ativado por vez sendo assim apenas uma alternativa. 
+A diferença desse componente para o Checkboxes é a sua funcionalidade. Só pode ser ativado um por vez sendo assim apenas uma alternativa.
 
 ![Rádios](https://miro.medium.com/max/1742/1*XFTe3mIh5qe-b_SuKRnB2g.jpeg)
 
-#  Menus
+# Menus
 
 Menus são conhecidos por agrupar diferentes navegações em um único componente, é uma das principais ferramentas de uma interface.
 
 ![Menus](https://i.pinimg.com/originals/30/d0/8a/30d08a4c89b2469df19a74f015ea186b.png)
 
-# Formulários 
+# Formulários
 
 Utilizado muito em sites de compras, sistemas do governo, cadastro de redes sociais e muito mais, os formulários são quase que absolutos em uma interface.
 
@@ -34,7 +34,7 @@ Utilizado muito em sites de compras, sistemas do governo, cadastro de redes soci
 
 # Seletores
 
-Segue o estilo do formulários mas com opções pré definidas 
+Segue o estilo do formulários mas com opções pré definidas.
 
 ![Seletore](https://img.freepik.com/psd-gratuitas/itunes-inspirado-ui-kit-psd_28-1812.jpg?size=338&ext=jpg)
 

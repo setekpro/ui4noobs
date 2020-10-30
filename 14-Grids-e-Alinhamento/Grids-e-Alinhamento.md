@@ -1,4 +1,4 @@
-# Grids e Alinhamento 
+# Grids e Alinhamento
 
 Grids são estruturas geométricas que auxiliam na orientação de objetos, textos e imagens dentro de uma interface. A sua principal funcionalidades em um projeto é proporcionar uma regra de alinhamento e organização entre a interface.
 

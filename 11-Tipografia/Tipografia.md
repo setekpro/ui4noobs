@@ -20,23 +20,23 @@ Lembre-se no que foi dito anteriormente, mantenha a consistência nos seus layou
 
 --- 
 
-Outro ponto importante é a largura do texto, lembre-se sempre de manter um número agradável de palavras por linha, visando sempre facilitar a leitura do usuário, pois caso a linha tenha um excesso de palavras o usuário pode facilmente se perder na quebra de linha, além de se tornar uma leitura cansativa. 
+Outro ponto importante é a largura do texto, lembre-se sempre de manter um número agradável de palavras por linha, visando sempre facilitar a leitura do usuário, pois caso a linha tenha um excesso de palavras o usuário pode facilmente se perder na quebra de linha, além de se tornar uma leitura cansativa.
 
-Lembre-se também, de sempre utilizar **negrito** e *itálico* pra auxiliar na leitura do usuário. Porém use bem, não faça exagero do negrito e do itálico, pois ao abusar disso ele perde a sua importância e significado que é **destacar**. 
+Lembre-se também, de sempre utilizar **negrito** e *itálico* pra auxiliar na leitura do usuário. Porém use bem, não faça exagero do negrito e do itálico, pois ao abusar disso ele perde a sua importância e significado que é **destacar**.
 
 --- 
 
 # Cores Tipografia
 
-Escolha cores agradáveis para seus titulos e textos, pois cores muito claras em um fundo branco, dificulta e muito na leitura, mantenha sempre um contraste agradável a vista do usuário.
+Escolha cores agradáveis para seus títulos e textos, pois cores muito claras em um fundo branco, dificulta e muito na leitura, mantenha sempre um contraste agradável a vista do usuário.
 
 Vamos ver alguns exemplos:
 
-- Forma certa: 
+- Forma certa:
 
 ![Cor Certa](https://imgur.com/LHbN9pM.png)
 
-- Forma Errada: 
+- Forma Errada:
 
 ![Cor Errada](https://imgur.com/TiAZa6T.png)
 

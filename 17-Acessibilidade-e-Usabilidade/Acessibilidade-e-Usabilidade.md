@@ -1,4 +1,4 @@
-# Acessibilidade e Usabilidade 
+# Acessibilidade e Usabilidade
 
 Qual a diferença entre acessibilidade e usabilidade? As diferenças está na prática que o usuário desempenha na interface. Se liga que vou te explicar mais qual a diferença entre os dois e qual a importância de ambos desempenham em uma interface;
 
@@ -8,7 +8,7 @@ A acessibilidade surgiu com a necessidade de proporcionar um contato maior entre
 
 Algumas funções como; tato falado para cegos ou até mesmo descrições de cada toque e ação para surdos são exemplos amplos de como essas funcionalidades podem ser utilizadas em sua interface.
 
-Usabilidade
+# Usabilidade
 
 Usabilidade é o termo utilizado para descrever as determinadas ações que usuário “utiliza” em sua interface tendo como principal objetivo conter informações claras e de fácil entendimento e fácil visualização.
 

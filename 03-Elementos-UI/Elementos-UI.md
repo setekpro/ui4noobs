@@ -2,13 +2,13 @@
 
 Os elementos de uma UI, consiste basicamente em: **Espaço, Formas, Cores, Tipografia, Imagens e os Ícones.**
 
-Esses elementos servem pra comunicação e intereção com o usuário, as combinações desses elementos se tornam uma arma poderosa no UX/UI.
+Esses elementos servem pra comunicação e interação com o usuário, as combinações desses elementos se tornam uma arma poderosa no UX/UI.
 
 Neste módulo, falaremos brevemente sobre cada um deles, e ao decorrer do curso nos aprofundaremos mais.
 
 ## Espaço
 
- - O espaço seria o espaçamento entre os elementos, por exemplo, o espaço entre um título e um texto, um botão de outro botão, o espaçamento serve pra organizar nossos conteúdos.
+- O espaço seria o espaçamento entre os elementos, por exemplo, o espaço entre um título e um texto, um botão de outro botão, o espaçamento serve pra organizar nossos conteúdos.
 
 ## Formas
 
@@ -16,11 +16,11 @@ Neste módulo, falaremos brevemente sobre cada um deles, e ao decorrer do curso 
 
 ## Tipografia
 
-- Grande parte da Web é basicamente texto, por isso é de extrema importância manter uma boa tipografia em seu site. A escolha da fonte, tamanho dos títulos e do texto, números de palavras por linha e as cores dos textos, fazem e muita diferença em suas interfaces. 
+- Grande parte da Web é basicamente texto, por isso é de extrema importância manter uma boa tipografia em seu site. A escolha da fonte, tamanho dos títulos e do texto, números de palavras por linha e as cores dos textos, fazem e muita diferença em suas interfaces.
 
 ## Cores
 
-- As cores estão tão presentes em nossos layout's e no nosso dia a dia que nem nos damos conta da importância das mesmas, criar uma paleta de cores agradável é um dos passos mais importantes ao desenvolver interfaces, pois ela pode tanto atrair o usuário, quanto afastar. 
+- As cores estão tão presentes em nossos layout's e no nosso dia a dia que nem nos damos conta da importância das mesmas, criar uma paleta de cores agradável é um dos passos mais importantes ao desenvolver interfaces, pois ela pode tanto atrair o usuário, quanto afastar.
 
 ## Imagens
 
@@ -34,10 +34,10 @@ Neste módulo, falaremos brevemente sobre cada um deles, e ao decorrer do curso 
 
 ## Tá, e agora?
 
-Lembre-se de que cada elemento tem seu significado e o seu propósito, cada elemento deve ser pensado a passar uma mensagem pro usuário.   
+Lembre-se de que cada elemento tem seu significado e o seu propósito, cada elemento deve ser pensado a passar uma mensagem pro usuário.
 
-É importante também manter a consistência em seus layouts, ***mas como assim?*** Não é uma boa prática por exemplo, por cada botão do site de uma cor ou cada título ter sua tipografia e cores diferentes uns dos outros (a menos que seja extremamente necessário), pois isso causará estranheza no usuário. 
+É importante também manter a consistência em seus layouts, ***mas como assim?*** Não é uma boa prática por exemplo, por cada botão do site de uma cor ou cada título ter sua tipografia e cores diferentes uns dos outros (a menos que seja extremamente necessário), pois isso causará estranheza no usuário.
 
-Além de tudo isso, não encha o seu site de coisas desnecessárias, coloque apenas o importante, informação em excesso também é algo ruim, coloque apenas o essencial de forma intuitiva ao usuário. 
+Além de tudo isso, não encha o seu site de coisas desnecessárias, coloque apenas o importante, informação em excesso também é algo ruim, coloque apenas o essencial de forma intuitiva ao usuário.
 
 [Próximo capítulo: Interface Mobile](../04-Interface-Mobile/Interface-Mobile.md)

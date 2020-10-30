@@ -1,6 +1,6 @@
-# Interface Mobile 
+# Interface Mobile
 
-Segundo uma pesquisa realizada em 2018 pela CGI.br ( Comitê Gestor da Internet no Brasil) mais da metade dos usuários da internet acessa ela através dos celulares e esse dado vai ajudar a compreender a necessidade de priorizar umas das áreas que mais cresce atualmente: Mercado Mobile.
+Segundo uma pesquisa realizada em 2018 pela CGI.br (Comitê Gestor da Internet no Brasil) mais da metade dos usuários da internet acessa ela através dos celulares e esse dado vai ajudar a compreender a necessidade de priorizar umas das áreas que mais cresce atualmente: Mercado Mobile.
 
 Grandes problemas no aplicativo do Auxilio Emergencial da Caixa Econômica Federal poderiam ser resolvidos se houvesse designer UI por trás, interface não intuitiva e complicada pode proporcionar uma experiência negativa e frustrante. Para evitar esse tipo de problemas é cada vez mais necessário um profissional em cada empresa visando sempre entregar a proposta com máximo de excelência atendendo da melhor forma.
 
