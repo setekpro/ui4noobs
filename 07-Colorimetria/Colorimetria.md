@@ -1,6 +1,6 @@
 # Colorimetria 
 
-As cores existem muito antes da ciência que estuda ela, a percepção das cores surgiu juntamente com o primeiro homem e até antes da existência do ser humano. Colorimetria é o conjunto de tecnologias que estuda a física do fenômeno das cores para os seres humanos, as cores surgem na mensuração da temperatura da cor, seu grau de matriz, saturação e luminosidade. As cores são estudadas de diversas maneiras como forma de compreender como afetam nosso dia a dia como a Psicologia da Cor e a Cromática que estuda a harmonia das cores.
+As cores existem muito antes da ciência que estuda ela, a percepção das cores surgiu juntamente com o primeiro homem e até antes da existência do ser humano. Colorimetria é o conjunto de tecnologias que estudam a física do fenômeno das cores para os seres humanos, as cores surgem na mensuração da temperatura da cor, seu grau de matriz, saturação e luminosidade. As cores são estudadas de diversas maneiras como forma de compreender como afetam nosso dia a dia como a Psicologia da Cor e a Cromática que estuda a harmonia das cores.
 
 # Características 
 
@@ -15,12 +15,12 @@ Para aferição da cor, esta será dividida em três características específic
 # Psicologia das Cores
 
 ### 1 - Cor amarela: significado
-Por ser uma cor forte, o amarelo chama a atenção de quem o vê. ela é comprada ao sol e remete também à luz e ao calor. Além do mais, alguns estudiosos acreditam que o amarelo pode estimular a fome. Não à toa, marcas como Mc Donalds e Burguer King a utilizam para estimular o consumo.
+Por ser uma cor forte, o amarelo chama a atenção de quem o vê. Ela é comparada ao sol e remete também à luz e ao calor. Além do mais, alguns estudiosos acreditam que o amarelo pode estimular a fome. Não à toa, marcas como Mc Donalds e Burguer King a utilizam para estimular o consumo.
 
 * Sensações causadas pelo amarelo: Advertência, alegria, juventude, fome e calor.
 
 ### 2 - Cor vermelha: significado
-Na psicologia das cores., a cor vermelha é uma de maiores destaques. Dessa forma, ela pode representar diferentes emoções, tais como amor e raiva. Além disso, a psicologia diz que ela ainda provoca a excitação e também a fome.
+Na psicologia das cores, a cor vermelha é uma de maiores destaques. Dessa forma, ela pode representar diferentes emoções, tais como amor e raiva. Além disso, a psicologia diz que ela ainda provoca a excitação e também a fome.
 
 
 * Sensações causadas pelo vermelho: Extroversão, amor, ansiedade, intensidade e velocidade
@@ -41,7 +41,7 @@ O laranja possui diversas características em comum com o vermelho e o amarelo. 
 * Sensações promovidas pelo laranja: Estimulante, entretenimento, alegria, confiança e sabedoria
 
 ### 6 - Significado da cor  azul: significado
-O azul é uma cor unânime. Em tons mais claros transmite sensação de leveza e tranquilidade. Enquanto o azul mais escuro é utilizado para demonstrar segurança e poder. esta cor é muito utilizada por empresas que desejam passar credibilidade e confianças. No setor de tecnologia ela é muito presente.
+O azul é uma cor unânime. Em tons mais claros transmite sensação de leveza e tranquilidade. Enquanto o azul mais escuro é utilizado para demonstrar segurança e poder. Esta cor é muito utilizada por empresas que desejam passar credibilidade e confianças. No setor de tecnologia ela é muito presente.
 
 * Sensações promovidas pela cor azul: Confiança, força, poder, tranquilidade e frio
 
@@ -57,7 +57,7 @@ Pode passar a ideia de elegância e, atualmente, é uma das cores da moda. Adema
 
 ### 9 – Significado da cor preta: significado
 
-É a mais elegante das cores! Por isso, remete à sofistificação, modernidade e luxo. ela pode ser vinculada também a situações de medo ou curiosidade.
+É a mais elegante das cores! Por isso, remete à sofistificação, modernidade e luxo. Ela pode ser vinculada também a situações de medo ou curiosidade.
 
 * Sensações promovidas pela cor preta: Mal, elegância, credibilidade, sofisticação e mistério
 

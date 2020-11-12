@@ -6,10 +6,10 @@ As cores neutras não possuem nenhuma ligação com elementos, ou seja, são cor
 
 As cores são percepções visuais, ou seja, impressões de faixas luminosas captadas pelos nossos olhos. O branco representa a luz sendo a soma de todas as cores do espectro; já o preto é a ausência de luz.
 
-Assim, se misturarmos o branco com o preto surge a cor cinza, uma cor neutra que contém pouco reflexo
+Assim, se misturarmos o branco com o preto surge a cor cinza, uma cor neutra que contém pouco reflexo.
 # Cores neutras em seus segmentos 
 
-Como exemplo da utilização das cores frias selecionei algumas empresas de diversos segmentos: 
+Como exemplo da utilização das cores neutras selecionei algumas empresas de diversos segmentos: 
 
 ### Apple - Branco
 

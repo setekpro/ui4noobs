@@ -4,7 +4,7 @@ Em uma interface existem diferentes tipos de componentes para diversas ações e
 
 # Botões de ação
 
-Responsável por toda experiência do usuário com a interface, seja ela salvar, excluir, carregar, ir para outra página, excluir e muito mais.
+Responsável por toda experiência do usuário com a interface, seja ela salvar, excluir, carregar, ir para outra página e muito mais.
 
 ![Botões de ação](https://miro.medium.com/max/3456/1*yC4fe0b4M1NlSMSZoswwmQ.jpeg)
 
@@ -34,13 +34,13 @@ Utilizado muito em sites de compras, sistemas do governo, cadastro de redes soci
 
 # Seletores
 
-Segue o estilo do formulários mas com opções pré definidas 
+Segue o estilos dos formulários mas com opções pré definidas 
 
 ![Seletore](https://img.freepik.com/psd-gratuitas/itunes-inspirado-ui-kit-psd_28-1812.jpg?size=338&ext=jpg)
 
 # Dropdowns
 
-É uma mistura de seletor com  e rádio possibilitando apenas uma escolha com ação.
+É uma mistura de seletor com rádio possibilitando apenas uma escolha com ação.
 
 ![Dropdowns](https://i.pinimg.com/originals/e7/2b/be/e72bbef80964566c89aea0de21a43514.png)
 

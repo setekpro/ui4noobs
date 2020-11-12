@@ -2,7 +2,7 @@
 
 Os elementos de uma UI, consiste basicamente em: **Espaço, Formas, Cores, Tipografia, Imagens e os Ícones.**
 
-Esses elementos servem pra comunicação e intereção com o usuário, as combinações desses elementos se tornam uma arma poderosa no UX/UI.
+Esses elementos servem pra comunicação e interação com o usuário, as combinações desses elementos se tornam uma arma poderosa no UX/UI.
 
 Neste módulo, falaremos brevemente sobre cada um deles, e ao decorrer do curso nos aprofundaremos mais.
 
@@ -12,7 +12,7 @@ Neste módulo, falaremos brevemente sobre cada um deles, e ao decorrer do curso 
 
 ## Formas
 
-- As formas estão sempre presentes em interfaces, seja um círculo pra foto de perfil, um retângulo pra um botão ou um quadrado pra uma foto no feed. Usar as formas certas pros elementos certos, melhora e muito o UX do seus layouts.
+- As formas estão sempre presentes em interfaces, seja um círculo pra foto de perfil, um retângulo pra um botão ou um quadrado pra uma foto no feed. Usar as formas certas pros elementos certos, melhora e muito o UX dos seus layouts.
 
 ## Tipografia
 
