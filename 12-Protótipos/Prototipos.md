@@ -2,7 +2,7 @@
 
 Os protótipos são uma das principais ferramentas que um designer de interface utiliza, sem os protótipos é impossível concluir um projeto pois são deles que suas ideias tomam vida e caminham para o resultado final.
 
-Diferente de alguns processos anteriores o protótipos podem ser feitos a mão ou no próprio computador utilizando softwares específicos para UI, separei os principais software de protótipos que você pode usar caso tenha como alternativa o computador:
+Diferente de alguns processos anteriores os protótipos podem ser feitos a mão ou no próprio computador utilizando softwares específicos para UI, separei os principais software de protótipos que você pode usar caso tenha como alternativa o computador:
 
 # Figma (free) 
 Windows e Mac
@@ -29,6 +29,6 @@ Um protótipo tem como função colocar as ideias em um esqueleto, avaliar e val
 
 Geralmente quando criamos um protótipos definimos o grau de fidelidade com o resultado final podendo definir como: baixa, média e alta. 
 
-A dica de ouro no desenvolvimento dos protótipos é manter com maior clareza as principais ideias entorno do projeto, questionando suas utilidade e colocando a prova sua funcionalidade também.
+A dica de ouro no desenvolvimento dos protótipos é manter com maior clareza as principais ideias entorno do projeto, questionando suas utilidades e colocando a prova sua funcionalidade também.
 
 [Próximo capítulo: Ícones](../13-Ícones/Icones.md)
