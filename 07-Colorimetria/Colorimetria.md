@@ -25,48 +25,47 @@ Na psicologia das cores., a cor vermelha é uma de maiores destaques. Dessa form
 
 * Sensações causadas pelo vermelho: Extroversão, amor, ansiedade, intensidade e velocidade
 
-### 3 - Significado da cor verde: significado
+### 3 - Cor verde: significado
 É uma cor conectada à natureza e, por isso, traz leveza, tranquilidade e harmonia. Essa cor também possui relação com a esperança e também remete à saúde.
 
 * Sensações promovidas pelo verde:Riqueza, saúde, equilíbrio, natureza e esperança
 
-### 4 - Significado da cor rosa: significado
+### 4 - Cor rosa: significado
 O rosa claro  transmite a tranquilidade e a inocência, portanto remete à infância. Já o rosa mais escuro remete à paixão e a sedução.
 
 * Sensações promovidas pelo rosa: Tranquilidade, maciez, infância, paixão e inocência.
 
-### 5 - Significado da cor laranja: significado
+### 5 - Cor laranja: significado
 O laranja possui diversas características em comum com o vermelho e o amarelo. É uma cor alegre e, por isso, transmite energia ao público e  estimula a criatividade. No entanto, como é uma cor secundária, ela é menos impactante que as primárias.
 
 * Sensações promovidas pelo laranja: Estimulante, entretenimento, alegria, confiança e sabedoria
 
-### 6 - Significado da cor  azul: significado
+### 6 - Cor  azul: significado
 O azul é uma cor unânime. Em tons mais claros transmite sensação de leveza e tranquilidade. Enquanto o azul mais escuro é utilizado para demonstrar segurança e poder. esta cor é muito utilizada por empresas que desejam passar credibilidade e confianças. No setor de tecnologia ela é muito presente.
 
 * Sensações promovidas pela cor azul: Confiança, força, poder, tranquilidade e frio
 
-### 7 – Significado da cor roxa: significado
+### 7 – Cor roxa: significado
 A psicologia diz que o roxo ou violeta possui ligação com a antiguidade. Antigamente, somente nobres, bispos e família real podiam utilizar vestimentas dessa cor. Dessa forma, ela significa poder, sabedoria e respeito. Além de transmitir uma ideia de criatividade.
 
 * Sensações promovidas pela cor roxa : Calma, extravagância, luxo, poder e sabedoria
 
-### 8 – Significado da cor marrom :significado
+### 8 – Cor marrom: significado
 Pode passar a ideia de elegância e, atualmente, é uma das cores da moda. Ademais, ela também possui relação direta com a natureza, sendo aquela que representa a cor da madeira e da terra.
 
 * Sensações promovidas pela cor azul: Natureza, rústico, aromas, conforto e elegância
 
-### 9 – Significado da cor preta: significado
-
+### 9 – Cor preta: significado
 É a mais elegante das cores! Por isso, remete à sofistificação, modernidade e luxo. ela pode ser vinculada também a situações de medo ou curiosidade.
 
 * Sensações promovidas pela cor preta: Mal, elegância, credibilidade, sofisticação e mistério
 
-### 10 – Significado da cor branca: significado
+### 10 – Cor branca: significado
 A branca é a cor mais pura. Assim sendo, ela remete à claridade, pureza, paz e também à elegância. Além do mais, esta cor é utilizada para transmitir higiene, dentre outras séries de funções.
 
 * Sensações promovidas pela cor branca: Simplicidade, pureza, harmonia, leveza e ordem
 
-### 11 - Significado da cor cinza: significado
+### 11 - Cor cinza: significado
 O cinza é o resultado da junção do preto com o branco. E assim como suas primárias, ela ajuda a ressaltar as neutras. De maneira isolada, pode-se dizer que é uma cor agradável e que passa a sensação de modernidade e profissionalismo.
 
 * Sensações promovidas pela cor cinza:Inovação, tecnologia, seriedade, neutralidade e reflexão.
